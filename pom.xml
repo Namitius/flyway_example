@@ -24,7 +24,7 @@
                 <version>5.2.4</version>
                 <configuration>
                     <user>root</user>
-                    <url>jdbc:mysql://localhost:3306/placek?serverTimezone=UTC</url>
+                    <url>jdbc:mysql://localhost:3306/exa?serverTimezone=UTC</url>
                 </configuration>
                 <dependencies>
                     <dependency>
